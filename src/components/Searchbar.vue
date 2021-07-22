@@ -1,5 +1,5 @@
 <template>
-  <h1>About</h1>
+  Searchbar
 </template>
 
 <script>

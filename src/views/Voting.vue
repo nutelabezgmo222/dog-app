@@ -1,5 +1,5 @@
 <template>
-  <h1>About</h1>
+  <h1>Voting</h1>
 </template>
 
 <script>
